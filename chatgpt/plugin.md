@@ -45,10 +45,10 @@ OPENAI 有远大的野心
 ## 从0开始开发一款插件
 
 ### 1 资格申请
-访问 https://openai.com/waitlist/plugins ,申请测试资格
+访问 `https://openai.com/waitlist/plugins`,申请测试资格
 
 ### 2 官方模版下载
-git clone git@github.com:openai/chatgpt-retrieval-plugin.git
+git clone `git@github.com:openai/chatgpt-retrieval-plugin.git`
 
 ### 3 使用向量数据库进行插件编写
 [使用qdrant数据库进行插件编写](https://qdrant.tech/articles/chatgpt-plugin/)  
