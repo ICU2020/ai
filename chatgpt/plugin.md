@@ -1,5 +1,9 @@
 # ChatGPT Plugin功能
 
+3 月 23 日，ChatGPT 发布了另一个重大更新。 新的更新现在允许 ChatGPT 访问第三方插件。 这将启用更多的 ChatGPT 应用案例。 从少量用户开始，他们将慢慢扩展并征求对他们体验的反馈。 这么说吧：以前的ChatGPT很聪明，但也有缺点。 其中一个问题是它无法实时连接到互联网，有时会给出错误的响应。 然而，一旦此第三方插件处于活动状态，以上的问题都不会存在。 
+
+![111](https://github.com/ICU2020/ai/blob/main/chatgpt/pics/plugin01.png)
+ 
 ## ChatGPT Plugin带来的巨大改变
 ### 1. 实时即时搜索
 可以通过接入第三方插件，直接向ChatGPT查询互联网上的最新信息，例如比赛结果、行情、最新消息等。 在此之前，ChatGPT 只有 2021 年之前的信息。它无法回复 2021 年之后的查询。
@@ -19,6 +23,8 @@ OPENAI 有远大的野心
  
  
 ## 部分已经上架的部分插件产品
+
+![111](https://github.com/ICU2020/ai/blob/main/chatgpt/pics/plugin02.png)
  
  Expedia:  使用 Expedia ChatGPT 插件合理规划如何到达目的地、住宿地点以及到达目的地后的观光和活动，让旅行更加方便。
  
@@ -46,6 +52,8 @@ OPENAI 有远大的野心
 
 ### 1 资格申请
 访问 `https://openai.com/waitlist/plugins`,申请测试资格
+
+![111](https://github.com/ICU2020/ai/blob/main/chatgpt/pics/plugin03.png)
 
 ### 2 官方模版下载
 git clone `git@github.com:openai/chatgpt-retrieval-plugin.git`
